@@ -28,7 +28,7 @@ layers:
   - {t: K, h: '$$mdi:apple-keyboard-shift$$'}
   - {t: L, h: '$$mdi:apple-keyboard-option$$'}
   - {t: AltGr+P, h: RIGHT GUI}
-  - {t: AltGr+', s: AltGr+"}
+  - AltGr+Q
   - '&del_back'
   - Z
   - X
